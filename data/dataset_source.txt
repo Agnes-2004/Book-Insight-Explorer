@@ -1,0 +1,9 @@
+Dataset Source:
+
+Kaggle Books Dataset
+
+This project uses a publicly available books dataset from Kaggle.
+The dataset was cleaned and transformed using Excel Power Query.
+
+Dataset link:
+https://www.kaggle.com/datasets/madankhatri123h/books-dataset
