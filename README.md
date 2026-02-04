@@ -50,8 +50,17 @@ This project uses the dataset strictly for educational and analytical purposes.
 
 ---
 
+## 📊 Dashboard Versions
+
+- **V1**: Initial dashboard with core KPIs and slicer-based interactivity
+- **V2**: Improved visual design, refined insights, cleaner storytelling, and enhanced usability
+
+---
+
 ## 📜 License
 This project is licensed under the MIT License.
+
+---
 
 ## 👤 Author
 Agnes C  
