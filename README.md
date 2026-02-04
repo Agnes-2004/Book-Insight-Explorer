@@ -29,7 +29,7 @@ It provides dynamic KPIs and visualizations that update instantly based on user-
 
 ## 📊 Dashboard Preview
 ![Dashboard Overview (V1)](docs/screenshots_V1/dashboard_overview.png)
-![Dashboard Overview (V2)](docs/screenshot_V2/DashboardOverview.png)
+![Dashboard Overview (V2)](docs/screenshot_V2/dashboard_overview_V2.png)
 ---
 
 ## 📁 Repository Structure
